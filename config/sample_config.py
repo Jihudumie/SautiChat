@@ -13,13 +13,14 @@ MONGO_DB_URI = ""
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
-    383407735,
-    951435494,
-    1392620345
+    1041455290,
+    1205125621,
+    592800547,
+    183775654
 ]
 
 # The ID of the group where your bot streams
-GROUP = -1001402753006
+GROUP = -1001491894165
 
 # Users must join the group before using the bot (note: the bot should be admin in the group if you enable this)
 USERS_MUST_JOIN = False
