@@ -16,7 +16,9 @@ SUDO_USERS = [
     1041455290,
     1205125621,
     592800547,
-    183775654
+    183775654,
+    1381922510,
+    654648997
 ]
 
 # The ID of the group where your bot streams
